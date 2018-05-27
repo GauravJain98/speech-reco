@@ -10,3 +10,4 @@ try:
     print(r.recognize_google(audio,show_all=True))
 except:
     print('error happend :(')
+    
